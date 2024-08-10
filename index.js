@@ -1,1 +1,1 @@
-window.alert('hey')
+alert('Be gone!')
