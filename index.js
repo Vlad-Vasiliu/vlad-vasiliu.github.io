@@ -1,1 +1,1 @@
-console.alert('hey')
+window.alert('hey')
